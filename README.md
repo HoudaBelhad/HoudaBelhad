@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Houda Belhad</h1>
 <h3 align="center">A passionate Software Engeneer form Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houdabelhad" alt="houdabelhad" /></a> </p>
-
 - 🔭 I’m currently working on **Contact Manager**
 
 - 🌱 I’m currently learning **Spring Boot Java**
