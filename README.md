@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houda Belhad</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-- 🔭 I’m currently working on **Contact Manager API**
+- 🔭 I’m currently working on **Note Manager API**
 - 🌱 I’m currently learning **Spring Boot & Java**
 - 📫 How to reach me: **houda.belhad6@gmail.com**
 - 🌍 Location: Morocco
